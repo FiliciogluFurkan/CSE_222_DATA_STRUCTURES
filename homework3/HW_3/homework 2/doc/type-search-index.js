@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Homework3","l":"Device"},{"p":"Homework3","l":"Gamebox"},{"p":"Homework3","l":"Headphones"},{"p":"Homework3","l":"Inventory"},{"p":"Homework3","l":"Laptop"},{"p":"Homework3","l":"Smartphone"},{"p":"Homework3","l":"Test"},{"p":"Homework3","l":"Tv"}];updateSearchResults();
